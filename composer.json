@@ -1,0 +1,14 @@
+{
+    "name": "kirill/btain-games",
+    "description": "Hexlet's project brain-games",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Kirill Tabakov",
+            "email": "kirill.tabakov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
